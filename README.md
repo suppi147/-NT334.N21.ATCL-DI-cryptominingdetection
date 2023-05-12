@@ -27,6 +27,8 @@ The feature vector consists of the following features in this order:
 7. fin/all - Number of flows with FIN flag to all flows
 7. class - miner or notminer
 
+### Smas
+
 For futher details on compuation of statistics see:
 https://github.com/CESNET/Nemea-Detectors/blob/master/miner_detector/miner_detector.cpp
 
